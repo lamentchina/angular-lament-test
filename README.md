@@ -1,4 +1,4 @@
-# &lt;angular/&gt; Phone Catalog Tutorial Application
+# &lt;angular/&gt; blog Application
 
 # Overview
 
